@@ -1,0 +1,33 @@
+{
+
+  "name": "Example",
+
+  "description": "Example",
+
+  "version": "0.0.0",
+
+  "main": "Bot.js",
+
+  "scripts": {
+
+    "start": "node Bot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0",
+    
+    "aiml": "0.0.2",
+    
+    "aiml-high": "0.0.8",
+    
+    "xmldom": "0.1.27",
+    
+    "
+
+  }
+
+}
